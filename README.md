@@ -23,7 +23,7 @@
   </a>&nbsp;
 
   <a title="CSharp" href="http://www.cplusplus.com/">
-      <img width="40" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="CSharp's logo" />
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" alt="CSharp's logo" />
   </a>&nbsp;
 </p>
 
