@@ -21,10 +21,6 @@
   <a title="Visual-studio-code" href="https://code.visualstudio.com/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="Visual-studio-code's logo" />
   </a>&nbsp;
-
-  <a title="CSharp" href="http://www.cplusplus.com/">
-      <img width="40" src="https://img1.pnghut.com/23/10/7/14MPR1bdqg/logo-c-symbol-microsoft-visual-studio-programming-language.jpg" alt="CSharp's logo" />
-  </a>&nbsp;
 </p>
 
 <p align="center">
