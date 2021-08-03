@@ -23,7 +23,7 @@
   </a>&nbsp;
 
   <a title="CSharp" href="http://www.cplusplus.com/">
-      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" alt="CSharp's logo" />
+      <img width="40" src="https://img1.pnghut.com/23/10/7/14MPR1bdqg/logo-c-symbol-microsoft-visual-studio-programming-language.jpg" alt="CSharp's logo" />
   </a>&nbsp;
 </p>
 
