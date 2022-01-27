@@ -9,6 +9,10 @@
   <a title="Css" href="https://css-tricks.com/">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="Css's logo" />
   </a>&nbsp;
+  
+    <a title="Python" href="https://www.python.org/">
+      <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Css's logo" />
+  </a>&nbsp;
 
   <a title="Github" href="https://github.com">
       <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="Github's logo" />
