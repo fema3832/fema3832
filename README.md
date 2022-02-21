@@ -1,6 +1,7 @@
 ### Hi, I'm Máté aka [fema][website]
-### Full-stack html programmer, primary school student, prod 
 [![Website](https://img.shields.io/website?label=fema.one&style=for-the-badge&url=https%3A%2F%2Ffema.one)](https://fema.one)
+
+## Full-stack html programmer, primary school student, prod 
 <p align="center">
   <a title="Html" href="https://www.w3.org/html/">
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="Html's logo" />
