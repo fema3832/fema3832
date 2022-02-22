@@ -18,7 +18,7 @@
 <img align="left" alt="Rust" width="22px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/rsz_rust.png" />
 <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="22px" src="ttps://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 
 [website]: https://fema.one
 [youtube]: https://www.youtube.com/channel/UCx-MNCKET13anYIfsYWGOIw
