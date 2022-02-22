@@ -26,7 +26,6 @@
 ### Projects
 - owner and dev @ fema.one
 - owner and dev @ fejesmate.hu
-- developer @ panjandrum.hu
 
 [website]: https://fema.one
 [fejesmate]: https://fejesmate.hu
