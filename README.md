@@ -21,6 +21,11 @@
 <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 
+### Projects
+- owner and dev @ fema.one
+- owner and dev @ fejesmate.hu
+- developer @ panjandrum.hu
+
 [website]: https://fema.one
 [fejesmate]: https://fejesmate.hu
 [youtube]: https://www.youtube.com/channel/UCx-MNCKET13anYIfsYWGOIw
