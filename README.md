@@ -3,9 +3,9 @@
 [![FejesMate](https://img.shields.io/website?label=fejesmate.hu&style=for-the-badge&url=https%3A%2F%2Ffejesmate.hu)](https://fejesmate.hu)
 
 ### About me
-- Full-stack html programmer, primary school student, prod
+- Full-stack html programmer, primary school student.
 - 15 years old
-- Learning: html, css, js, rust
+- Learning: html, css, js, rust, fl studio
 
 ### Socials
 [<img align="left" alt="fema.one" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
