@@ -33,5 +33,5 @@
 [fejesmate]: https://fejesmate.hu
 [youtube]: https://www.youtube.com/channel/UCx-MNCKET13anYIfsYWGOIw
 [discord]: https://dsc.bio/fema
-[steam]: https://steamcommunity.com/id/mateyo0001
+[steam]: https://steamcommunity.com/id/2a0
 
