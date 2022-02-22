@@ -11,8 +11,9 @@
 [<img align="left" alt="Fema#6182 discord" width="22px" src="https://www.iconsdb.com/icons/download/white/discord-128.png" />][discord]
 [<img align="left" alt="fema steam" width="22px" src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-black-transparent.png" />][steam]
 
-### Tools and languages
+<br><br>
 
+### Tools and languages
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Rust" width="22px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/rsz_rust.png" />
