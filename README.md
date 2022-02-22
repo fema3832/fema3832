@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=fema.one&style=for-the-badge&url=https%3A%2F%2Ffema.one)](https://fema.one)
 [![FejesMate](https://img.shields.io/website?label=fejesmate.hu&style=for-the-badge&url=https%3A%2F%2Ffejesmate.hu)](https://fejesmate.hu)
 
-## Full-stack html programmer, primary school student, prod
+### Full-stack html programmer, primary school student, prod
 - 15 years old
 - Learning: html, css, js, rust
 
