@@ -3,7 +3,7 @@
 [![FejesMate](https://img.shields.io/website?label=fejesmate.hu&style=for-the-badge&url=https%3A%2F%2Ffejesmate.hu)](https://fejesmate.hu)
 
 ### About me
-- Full-stack html programmer, primary school student.
+- Full-stack html programmer, high school student.
 - 15 years old
 - Learning: html, css, js, rust, fl studio
 
