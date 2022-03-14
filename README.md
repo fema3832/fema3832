@@ -6,7 +6,6 @@
 - Front-End web developer, high school student.
 - 15 years old
 - Learning: html, css, js, rust, fl studio
-
 <br>
 
 ### Tools and languages
