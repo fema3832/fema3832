@@ -3,15 +3,9 @@
 [![FejesMate](https://img.shields.io/website?label=fejesmate.hu&style=for-the-badge&url=https%3A%2F%2Ffejesmate.hu)](https://fejesmate.hu)
 
 ### About me
-- Full-stack html programmer, high school student.
+- Front-End web developer, high school student.
 - 15 years old
 - Learning: html, css, js, rust, fl studio
-
-### Socials
-[<img align="left" alt="fema.one" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Globe_icon-white.svg" />][website]
-[<img align="left" alt="fema youtube" width="22px" src="https://buildair.com/wp-content/uploads/2019/04/youtube_icona.png" />][youtube]
-[<img align="left" alt="Fema#6182 discord" width="22px" src="https://www.iconsdb.com/icons/download/white/discord-128.png" />][discord]
-[<img align="left" alt="fema steam" width="22px" src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-black-transparent.png" />][steam]
 
 <br>
 
@@ -24,10 +18,6 @@
 <img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 
 <br>
-
-### Projects
-- owner and dev @ fema.one
-- owner and dev @ fejesmate.hu
 
 [website]: https://fema.one
 [fejesmate]: https://fejesmate.hu
