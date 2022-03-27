@@ -17,6 +17,8 @@
 
 <br>
 
+https://github-readme-stats.vercel.app/api?username=jesseduffield&show_icons=true
+
 [website]: https://fema.one
 [fejesmate]: https://fejesmate.hu
 [youtube]: https://www.youtube.com/channel/UCx-MNCKET13anYIfsYWGOIw
