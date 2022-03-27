@@ -17,7 +17,7 @@
 
 <br>
 
-[ja](https://github-readme-stats.vercel.app/api?username=jesseduffield&show_icons=true)
+![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=jesseduffield&show_icons=true)
 
 [website]: https://fema.one
 [fejesmate]: https://fejesmate.hu
