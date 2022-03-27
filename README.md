@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=fema.one&style=for-the-badge&url=https%3A%2F%2Ffema.one)](https://fema.one)
 [![FejesMate](https://img.shields.io/website?label=fejesmate.hu&style=for-the-badge&url=https%3A%2F%2Ffejesmate.hu)](https://fejesmate.hu)
 
-![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832 github stat's)
+![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title="fema3832 github stat's")
 
 ### About me
 - Front-End web developer, high school student.
