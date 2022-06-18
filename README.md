@@ -1,7 +1,4 @@
 ### [Máté][fejesmate] aka [Fema][website]
-[![Website](https://img.shields.io/website?label=fema.one&style=for-the-badge&url=https%3A%2F%2Ffema.one)](https://fema.one)
-[![FejesMate](https://img.shields.io/website?label=fejesmate.hu&style=for-the-badge&url=https%3A%2F%2Ffejesmate.hu)](https://fejesmate.hu)
-
 ![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)<br>
 ![fema](https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark)
 
