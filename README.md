@@ -12,7 +12,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<br>
+<br><br>
 
 ## Stats
 ![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)<br>
