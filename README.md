@@ -1,5 +1,3 @@
-## [Máté][fejesmate] aka [Fema][website]
-
 ![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)<br><br>
 ![fema](https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark)
 
