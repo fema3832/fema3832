@@ -1,14 +1,14 @@
 ### [Máté][fejesmate] aka [Fema][website]
-
-###
-![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)<br><br>
-![fema](https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark)
-
 ### About me
 - Front-End web developer, Full-Stack App developer, high school student.
 - 16 years old
 - Experience: html, css, js, c#, python
 - Learning: js, rust, fl studio
+
+
+###
+![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)<br><br>
+![fema](https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark)
 
 ### Tools and languages
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
