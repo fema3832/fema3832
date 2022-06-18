@@ -14,8 +14,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <br><br><br>
 
-![fema](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)<br><br>
-![fema](https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark)
+(https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)<br><br>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark)
 
 [website]: https://fema.one
 [fejesmate]: https://fejesmate.hu
