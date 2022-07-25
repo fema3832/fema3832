@@ -20,8 +20,8 @@
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br><br>
 
-[![Website](https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark)](https://fejesmate.hu)<br><br>
-[![Website](https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark)](https://fejesmate.hu)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark" />
 
 [website]: https://fema.one
 [fejesmate]: https://fejesmate.hu
