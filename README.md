@@ -18,7 +18,7 @@
 ![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-<br><br>
+<br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark&layout=compact" />
 <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark" />
