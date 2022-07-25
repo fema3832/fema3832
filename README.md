@@ -1,7 +1,7 @@
 ## About me
 - Front-End web developer, Full-Stack App developer, high school student.
 - 16 years old
-- Experience: html, css, js, c#, mongodb, python
+- Experience: html, css, bootstrap, js, c#, .net, mongodb, python
 - Learning: c++, rust, fl studio
 
 ## Tools and languages
