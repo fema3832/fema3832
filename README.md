@@ -5,12 +5,12 @@
 - Learning: c++, rust, fl studio
 
 ## Find me on
-[<img width="27px" padding-left="5px" alt="fejesmate.hu" src="https://fejesmate.hu/images/website.svg" />][website]
-[<img width="27px" padding-left="5px" alt="fema1337" src="https://fejesmate.hu/images/instagram.svg" />][instagram]
-[<img width="27px" padding-left="5px" alt="fema" src="https://fejesmate.hu/images/discord.svg" />][discord]
-[<img width="27px" padding-left="5px" alt="fema" src="https://fejesmate.hu/images/youtube.svg" />][youtube]
-[<img width="27px" padding-left="5px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]
-[<img width="27px" padding-left="5px" alt="fema3832" src="https://fejesmate.hu/images/soundcloud.svg" />][soundcloud]
+[<img width="27px" padding-left="15px" alt="fejesmate.hu" src="https://fejesmate.hu/images/website.svg" />][website]
+[<img width="27px" padding-left="15px" alt="fema1337" src="https://fejesmate.hu/images/instagram.svg" />][instagram]
+[<img width="27px" padding-left="15px" alt="fema" src="https://fejesmate.hu/images/discord.svg" />][discord]
+[<img width="27px" padding-left="15px" alt="fema" src="https://fejesmate.hu/images/youtube.svg" />][youtube]
+[<img width="27px" padding-left="15px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]
+[<img width="27px" padding-left="15px" alt="fema3832" src="https://fejesmate.hu/images/soundcloud.svg" />][soundcloud]
 
 ## Tools and languages
 [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][website]
