@@ -4,6 +4,14 @@
 - Experience: html, css, bootstrap, js, c#, .net, mongodb, python
 - Learning: c++, rust, fl studio
 
+## Find me on
+[<img width="22px" src="https://fejesmate.hu/imgs/website.svg" />][website]
+[<img width="22px" src="https://fejesmate.hu/imgs/instagram.svg" />][instagram]
+[<img width="22px" src="https://fejesmate.hu/imgs/discord.svg" />][discord]
+[<img width="22px" src="https://fejesmate.hu/imgs/youtube.svg" />][youtube]
+[<img width="22px" src="https://fejesmate.hu/imgs/spotify.svg" />][spotify]
+[<img width="22px" src="https://fejesmate.hu/imgs/soundcloud.svg" />][soundcloud]
+
 ## Tools and languages
 [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][website]
 [<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][website]
@@ -25,5 +33,8 @@
 
 [website]: https://fejesmate.hu
 [youtube]: https://www.youtube.com/channel/UCx-MNCKET13anYIfsYWGOIw
+[spotify]: https://open.spotify.com/user/p61d6m1fb7rxl68rpel7qjelw?si=cb7add4208004f8d&nd=1
+[soundcloud]: https://soundcloud.com/fema3832
 [discord]: https://dsc.bio/fema
+[instagram]: https://www.instagram.com/fema1337/
 [steam]: https://steamcommunity.com/id/2a0
