@@ -5,11 +5,11 @@
 - Learning: c++, rust, fl studio
 
 ## Find me on
-[<img width="27px" alt="fejesmate.hu" src="https://fejesmate.hu/images/website.svg" />][website]
-[<img width="27px" alt="fema1337" src="https://fejesmate.hu/images/instagram.svg" />][instagram]
-[<img width="27px" alt="fema" src="https://fejesmate.hu/images/discord.svg" />][discord]
-[<img width="27px" alt="fema" src="https://fejesmate.hu/images/youtube.svg" />][youtube]
-[<img width="27px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]
+[<img width="27px" alt="fejesmate.hu" src="https://fejesmate.hu/images/website.svg" />][website]           
+[<img width="27px" alt="fema1337" src="https://fejesmate.hu/images/instagram.svg" />][instagram]           
+[<img width="27px" alt="fema" src="https://fejesmate.hu/images/discord.svg" />][discord]           
+[<img width="27px" alt="fema" src="https://fejesmate.hu/images/youtube.svg" />][youtube]           
+[<img width="27px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]           
 [<img width="27px" alt="fema3832" src="https://fejesmate.hu/images/soundcloud.svg" />][soundcloud]
 
 ## Tools and languages
