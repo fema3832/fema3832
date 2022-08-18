@@ -5,19 +5,19 @@
 - Learning: c++, rust, fl studio
 
 ## Tools and languages
-[(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][website]
-[(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)][website]
-[(https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)][website]
-[(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)][website]
-[(https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)][website]
-[(https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)][website]
-[(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)][website]
-[(https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)][website]
-[(https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)][website]
-[(https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)][website]
-[(https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][website]
-[(https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)][website]
-[(https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)][website]
+[<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"][website]
+[<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"][website]
+[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"][website]
+[(https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"][website]
 <br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark&layout=compact" />
