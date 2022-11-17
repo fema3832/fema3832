@@ -29,7 +29,7 @@
 <br>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fema3832&show_icons=true&custom_title=fema3832&theme=dark&layout=compact" />
-<img width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=darka" />
+<img width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark" />
 
 [web]: https://fejesmate.hu
 [youtube]: https://www.youtube.com/channel/UCx-MNCKET13anYIfsYWGOIw
