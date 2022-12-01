@@ -1,8 +1,7 @@
 ## About me
-- Front-End web developer, Full-Stack App developer, high school student.
+- Front-End web developer, Mostly C# Full-Stack App developer, Paster.
 - 16 years old
-- Experience: html, css, bootstrap, js, c#, .net, mongodb, python
-- Learning: c++, rust, fl studio
+- Languages and Tools I mostly use: html, css, bootstrap, js, c#, c++, .net, mongodb, python.
 
 ## Find me on
 [<img width="27px" alt="fejesmate.hu" src="https://fejesmate.hu/images/website.svg" />][web]   
