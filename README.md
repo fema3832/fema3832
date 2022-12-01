@@ -1,5 +1,5 @@
 ## About me
-- Front-End web developer, Mostly C# Full-Stack App developer, Paster.
+- Front-End web developer, Paster, Mostly C# Full-Stack App developer.
 - 16 years old from Hungary
 
 ## Find me on
