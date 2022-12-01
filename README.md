@@ -1,7 +1,6 @@
 ## About me
 - Front-End web developer, Mostly C# Full-Stack App developer, Paster.
 - 16 years old
-- Languages and Tools I mostly use: html, css, bootstrap, js, c#, c++, .net, mongodb, python.
 
 ## Find me on
 [<img width="27px" alt="fejesmate.hu" src="https://fejesmate.hu/images/website.svg" />][web]   
@@ -11,7 +10,7 @@
 [<img width="27px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]   
 [<img width="27px" alt="fema3832" src="https://fejesmate.hu/images/soundcloud.svg" />][soundcloud]
 
-## Tools and languages
+## Languages and Tools
 [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][web]
 [<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][web]
 [<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />][web]
