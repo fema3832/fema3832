@@ -10,7 +10,7 @@
 [<img width="27px" alt="fema" src="https://fejesmate.hu/images/youtube.svg" />][youtube]   
 [<img width="27px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]   
 [<img width="27px" alt="fema3832" src="https://fejesmate.hu/images/soundcloud.svg" />][soundcloud]
-[<img width="27px" alt="panjandrum.hu" src="[https://panjandrum.hu/images/website.svg](https://panjandrum.hu/assets/favicon.ico)" />][panjandrum] 
+[<img width="27px" alt="panjandrum.hu" src="https://panjandrum.hu/assets/favicon.ico" />][panjandrum] 
 
 ## Languages and Tools
 [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][web]
