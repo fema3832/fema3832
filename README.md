@@ -1,6 +1,6 @@
 ## About me
 - Front-End web developer, Paster, Mostly C# Full-Stack App developer.
-- 17 years old from Hungary
+- 18 years old from Hungary
 <img align="right" width="12%" src="https://komarev.com/ghpvc/?username=fema3832&label=Profile%20views&color=0e75b6&style=flat" alt="fema3832" />
 
 ## Find me on
@@ -10,6 +10,7 @@
 [<img width="27px" alt="fema" src="https://fejesmate.hu/images/youtube.svg" />][youtube]   
 [<img width="27px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]   
 [<img width="27px" alt="fema3832" src="https://fejesmate.hu/images/soundcloud.svg" />][soundcloud]
+[<img width="27px" alt="panjandrum.hu" src="[https://panjandrum.hu/images/website.svg](https://panjandrum.hu/assets/favicon.ico)" />][panjandrum] 
 
 ## Languages and Tools
 [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][web]
@@ -31,6 +32,7 @@
 <img width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fema3832&layout=compact&theme=dark" />
 
 [web]: https://fejesmate.hu
+[panjandrum]: https://panjandrum.hu
 [youtube]: https://www.youtube.com/channel/UCx-MNCKET13anYIfsYWGOIw
 [spotify]: https://open.spotify.com/user/p61d6m1fb7rxl68rpel7qjelw?si=cb7add4208004f8d&nd=1
 [soundcloud]: https://soundcloud.com/fema3832
