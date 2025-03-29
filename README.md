@@ -3,15 +3,6 @@
 - 18 years old from Hungary
 <img align="right" width="12%" src="https://komarev.com/ghpvc/?username=fema3832&label=Profile%20views&color=0e75b6&style=flat" alt="fema3832" />
 
-## Find me on
-[<img width="27px" alt="fejesmate.hu" src="https://fejesmate.hu/images/website.svg" />][web]   
-[<img width="27px" alt="fema1337" src="https://fejesmate.hu/images/instagram.svg" />][instagram]   
-[<img width="27px" alt="fema" src="https://fejesmate.hu/images/discord.svg" />][discord]   
-[<img width="27px" alt="fema" src="https://fejesmate.hu/images/youtube.svg" />][youtube]   
-[<img width="27px" alt="fema" src="https://fejesmate.hu/images/spotify.svg" />][spotify]   
-[<img width="27px" alt="fema3832" src="https://fejesmate.hu/images/soundcloud.svg" />][soundcloud]
-[<img width="27px" alt="panjandrum.hu" src="https://panjandrum.hu/assets/favicon.ico" />][panjandrum] 
-
 ## Languages and Tools
 [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />][web]
 [<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />][web]
