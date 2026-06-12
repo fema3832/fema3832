@@ -1,6 +1,6 @@
 ## About me
-- Front-End web developer, Mostly C# Full-Stack App developer, Server admin.
-- 19 years old from Hungary
+- Front-End web developer, Mostly C#/Python Full-Stack App developer, Server admin.
+- 20 years old from Hungary
 <img align="right" width="12%" src="https://komarev.com/ghpvc/?username=fema3832&label=Profile%20views&color=0e75b6&style=flat" alt="fema3832" />
 
 ## Languages and Tools
